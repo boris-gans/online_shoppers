@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/544637995916517684/7fa0fc3a8624403ca447f9ec0484beb0/artifacts
+end_time: 1758273464169
+entry_point_name: ''
+experiment_id: '544637995916517684'
+lifecycle_stage: active
+run_id: 7fa0fc3a8624403ca447f9ec0484beb0
+run_name: nosy-kit-278
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758273464139
+status: 3
+tags: []
+user_id: borisgans

@@ -1,0 +1,6 @@
+artifact_location: mlflow-artifacts:/544637995916517684
+creation_time: 1758273432770
+experiment_id: '544637995916517684'
+last_update_time: 1758273432770
+lifecycle_stage: active
+name: purchase_intent_prediction

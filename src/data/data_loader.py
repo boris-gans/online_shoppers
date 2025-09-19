@@ -3,8 +3,8 @@ import pandas as pd
 
 class DataLoader:
     def __init__(self, config):
-        self.data_path = config.data.file_path
+        self.config = config
 
 
     def load_dataset(self):
-        return pd.read_csv(self.data_path)
+        return pd.read_csv(self.config['data']['file_path'])
