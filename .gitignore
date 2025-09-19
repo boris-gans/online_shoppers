@@ -1,2 +1,24 @@
 *.csv
 
+.DS_STORE
+
+*.pyc
+
+__pycache__/
+**/__pycache__/
+
+
+
+*.pyo
+*.pyd
+
+.venv/
+
+*/mlruns/
+mlruns/
+mlflow*
+
+logs/
+*.log
+
+
