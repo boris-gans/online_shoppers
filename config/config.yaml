@@ -1,0 +1,8 @@
+mlflow:
+  experiment_name: "purchase_intent_prediction"
+  run_name: "xgboost_baseline"
+  tracking_uri: "http://127.0.0.1:5000"
+
+data:
+  file_path: "data/raw/online_shoppers_intention.csv"
+
